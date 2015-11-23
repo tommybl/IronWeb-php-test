@@ -1,6 +1,6 @@
 # IronWeb-php-test
 
-#### Done in 15min. Process explain in comments of index.php
+> Done in 15min. Process explained in comments of index.php
 
 ### Output
 
